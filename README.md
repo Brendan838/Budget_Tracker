@@ -1,4 +1,4 @@
-# Book_Search_Engine
+# Budget Tracker
 
 Hello! This repo is an exercise completed for the U of MN fullstack web dev bootcamp. 
 
